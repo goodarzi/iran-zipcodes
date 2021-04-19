@@ -1,0 +1,32 @@
+id,code,province_name
+1,EA,East Azerbaijan
+2,WA,East Azerbaijan
+3,AR,Ardabil
+4,IS,Isfahan
+5,AL,Alborz
+6,IL,Ilam
+7,BU,Bushehr
+8,TE,Tehran
+9,CB,Chaharmahal and Bakhtiari
+10,SK,South Khorasan
+11,RK,Razavi Khorasan
+12,NK,North Khorasan
+13,KH,Khuzestan
+14,ZA,Zanjan
+15,SE,Semnan
+16,SB,Sistan and Baluchestan
+17,FA,Fars
+18,QA,Qazvin
+19,QO,Qom
+20,KU,Kurdistan
+21,KE,Kerman
+22,KS,Kermanshah
+23,KB,Kohgiluyeh and Boyer-Ahmad
+24,GO,Golestan
+25,GI,Gilan
+26,LO,Lorestan
+27,MA,Mazandaran
+28,MK,Markazi
+29,HO,Hormozgan
+30,HA,Hamadan
+31,YA,Yazd
